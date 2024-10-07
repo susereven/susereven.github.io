@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://susereven.github.io/sitemap.html.gz
+Sitemap: https://susereven.github.io/app/sitemap.html.gz
+Sitemap: https://susereven.github.io/assets/sitemap.html.gz
+Sitemap: https://susereven.github.io/css/sitemap.html.gz
+Sitemap: https://susereven.github.io/data/sitemap.html.gz
+Sitemap: https://susereven.github.io/includes/sitemap.html.gz
+Sitemap: https://susereven.github.io/item/sitemap.html.gz
+Sitemap: https://susereven.github.io/src/sitemap.html.gz
